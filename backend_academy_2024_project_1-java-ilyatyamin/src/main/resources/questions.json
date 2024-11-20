@@ -1,0 +1,111 @@
+[
+    {
+        "name": "завод",
+        "category": "работа",
+        "difficult": "EASY",
+        "hint": "место по изготовлению чего-либо в большом масштабе"
+    },
+    {
+        "name": "специалист",
+        "category": "работа",
+        "difficult": "HARD",
+        "hint": "Человек, являющийся профессионалом в своем деле"
+    },
+    {
+        "name": "фирма",
+        "category": "работа",
+        "difficult": "MEDIUM"
+    },
+    {
+        "name": "ассистент",
+        "category": "работа",
+        "difficult": "MEDIUM",
+        "hint": "помощник"
+    },
+    {
+        "name": "жонглёр",
+        "category": "работа",
+        "difficult": "HARD"
+    },
+    {
+        "name": "конвейер",
+        "category": "работа",
+        "difficult": "MEDIUM"
+    },
+    {
+        "name": "проект",
+        "category": "работа",
+        "difficult": "MEDIUM"
+    },
+    {
+        "name": "цирюльник",
+        "category": "работа",
+        "difficult": "HARD",
+        "hint": "устаревшее слово, профессия человека"
+    },
+    {
+        "name": "бутерброд",
+        "category": "еда",
+        "difficult": "MEDIUM"
+    },
+    {
+        "name": "банан",
+        "category": "еда",
+        "difficult": "EASY"
+    },
+    {
+        "name": "вермишель",
+        "category": "еда",
+        "difficult": "HARD"
+    },
+    {
+        "name": "завтрак",
+        "category": "еда",
+        "difficult": "EASY"
+    },
+    {
+        "name": "изюм",
+        "category": "еда",
+        "difficult": "EASY"
+    },
+    {
+        "name": "чайник",
+        "category": "приборы",
+        "difficult": "EASY"
+    },
+    {
+        "name": "термометр",
+        "category": "приборы",
+        "difficult": "MEDIUM",
+        "hint": "измеряет температуру"
+    },
+    {
+        "name": "перископ",
+        "category": "приборы",
+        "difficult": "HARD"
+    },
+    {
+        "name": "ваттметр",
+        "category": "приборы",
+        "difficult": "HARD",
+        "hint": "измеряет мощность тока"
+    },
+    {
+        "name": "самокат",
+        "category": "транспорт",
+        "difficult": "EASY",
+        "hint": "имеет 2 колеса"
+    },
+    {
+        "name": "троллейбус",
+        "category": "транспорт",
+        "difficult": "MEDIUM",
+        "hint": "Ездит на электричестве"
+    },
+    {
+        "name": "микроавтобус",
+        "category": "транспорт",
+        "difficult": "MEDIUM",
+        "hint": "вид общественного транспорта"
+    }
+]
